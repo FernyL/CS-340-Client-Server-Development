@@ -1,25 +1,13 @@
 # CS-340-Client-Server-Development
 
-# How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project 
-One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else 
-could you use this CRUD Python module in the future?
+# How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
-In order to write programs that are maintainable, readable, and adaptable, such as with the CRUD Python module from AnimalShelter.py, I used OOP 
-principles. I coded different functions such as the create, read, update, and delete functions so that the code is organized and can be reused.
-In the future, this CRUD Python module can be used again with the correct edits as needed for interacting with other databases.
+In order to write programs that are maintainable, readable, and adaptable, such as with the CRUD Python module from AnimalShelter.py, I used OOP principles. I coded different functions such as the create, read, update, and delete functions so that the code is organized and can be reused. In the future, this CRUD Python module can be used again with the correct edits as needed for interacting with other databases.
 
-# How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare 
-requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use 
-in the future to create databases to meet other client requests?
+# How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 
-As a computer scientist, I approach a problem by breaking it down into more simple sections and taking it one step at a time. I partipated in 
-Unit Testing and tested the code to ensure it worked as intended before moving on to the next section. In the future to create databases to meet
-other client requests I would continue to use Object-Oriented Programming principles and Unit Testing so that my work is organized, manageable,
-and adaptable.
+As a computer scientist, I approach a problem by breaking it down into more simple sections and taking it one step at a time. I partipated in Unit Testing and tested the code to ensure it worked as intended before moving on to the next section. In the future to create databases to meet other client requests I would continue to use Object-Oriented Programming principles and Unit Testing so that my work is organized, manageable, and adaptable.
 
-# What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to 
-do their work better?
+# What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
-Computer scientists are essential for solving problems in the tech world by designing and developing programs used daily by millions of users.
-My work on this type of project would help a company, like Grazioso Salvare, to do their work better by allowing the users to interact with the
-database in order to quickly and efficiently find animals with the specific traits required for search and rescue training. 
+Computer scientists are essential for solving problems in the tech world by designing and developing programs used daily by millions of users. My work on this type of project would help a company, like Grazioso Salvare, to do their work better by allowing the users to interact with the database in order to quickly and efficiently find animals with the specific traits required for search and rescue training. 
