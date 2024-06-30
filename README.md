@@ -10,14 +10,19 @@ There are a few tools required to use this software. The first tool required is 
 
 Usage
 The client dashboard, that has access to the Austin Animal Center Outcomes database, includes the data table displaying the data, radio items for filtering options for the data table, a pie chart relaying the data table information, and a geolocation chart for the selected animal. The image below displays the dashboard with the Grazioso Salvare logo that has a link to the SNHU homepage.
-
-The image below displays the filtering options required by Grazioso Salvare for the rescue type of dog they are seeking.
 ![image](https://github.com/FernyL/CS-340-Client-Server-Development/assets/142761901/5538401a-c036-42b4-8b12-be66c9f421a6)
+The image below displays the filtering options required by Grazioso Salvare for the rescue type of dog they are seeking.
+![image](https://github.com/FernyL/CS-340-Client-Server-Development/assets/142761901/7e2fe6e8-412d-4525-a303-d6829668e717)
 The image below displays the eligible dogs found for Water rescue training by selecting the Water Rescue filtering radio item option. The pie chart and geolocation chart are updated according to the filter settings.
+![image](https://github.com/FernyL/CS-340-Client-Server-Development/assets/142761901/11a14865-cf8e-40dd-96ee-af2409bbd44c)
 The image below displays the eligible dogs found for Mountain or Wilderness rescue training by selecting the Mountain/Wilderness Rescue filtering radio item option. The pie chart and geolocation chart are updated according to the filter settings.
+![image](https://github.com/FernyL/CS-340-Client-Server-Development/assets/142761901/9d2661b1-9159-495c-940c-5c433bd9d777)
 The image below displays the eligible dogs found for Disaster or Individual Tracking rescue training by selecting the Disaster/Individual Tracking Rescue filtering radio item option. The pie chart and geolocation chart are updated according to the filter settings.
+![image](https://github.com/FernyL/CS-340-Client-Server-Development/assets/142761901/3a77876e-c095-41be-92bf-f1e738d9ae03)
 The image below displays the Reset filtering option being selected and resetting the widgets to their original, unfiltered state.
+![image](https://github.com/FernyL/CS-340-Client-Server-Development/assets/142761901/892b5786-aed9-4c9f-8200-e8ab8218b9c6)
 The image below shows how the geolocation chart displays the animal's name and breed when hovering over the map marker.
+![image](https://github.com/FernyL/CS-340-Client-Server-Development/assets/142761901/e1f6132f-201f-4bda-a94e-b1f37b84659e)
 
 Contact
 Your name: Fernando Lomeli
